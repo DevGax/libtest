@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'lib-file-component',
-  standalone: false,
+  standalone: true,
   templateUrl: './file-component.component.html',
   styleUrl: './file-component.component.css'
 })
